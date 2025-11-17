@@ -1,0 +1,5 @@
+{
+  "name": "E-Mading Digital Modern",
+  "description": "A modern, interactive electronic wall magazine (e-mading) application built with React, Tailwind CSS, and Supabase, featuring high-quality visuals and fluid animations for displaying articles, announcements, and galleries.",
+  "requestFramePermissions": []
+}
